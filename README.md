@@ -29,7 +29,7 @@ The base code includes a scene scenes/pa2/ajax-simple.xml that instantiates a (c
 
 We create a new Integrator that accepts these parameters. The output of this integrator should be like the following:
 
-![Repo List](scenes/pa2/ajax-simple)
+![Repo List](scenes/pa2/ajax-simple.png)
 
 
-Note: This is the official project description https://www.cs.umd.edu/class/spring2020/cmsc740/nori/
+Note: For the full project description see: https://www.cs.umd.edu/class/spring2020/cmsc740/nori/
